@@ -19,4 +19,4 @@ files by changing the object "cols".
 
 FUTURE CHANGES:
 - Include a column for making decisions like in the Training files
-- 
+- Code to load results when they make you click a button to see more than 10 results
