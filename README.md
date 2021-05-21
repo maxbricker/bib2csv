@@ -13,4 +13,10 @@ PROCEDURE FOR MAKING THIS MODULE WORK:
 4. Run this module
 Your output will be one csv file and one excel file, which contain
 the most relevant bits of information for all the entries in your
-bib files
+bib files.
+Note: you can change which variables this code extracts from the bib
+files by changing the object "cols".
+
+FUTURE CHANGES:
+- Include a column for making decisions like in the Training files
+- 
